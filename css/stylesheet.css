@@ -1,0 +1,63 @@
+body,html{
+    margin: 0;
+    padding: 0;
+}
+@font-face {
+    font-family: chubby;
+    src: url("../fonts/ChubbyChoo-SemiBold.ttf") format("truetype");
+}
+#main{
+    padding-top: 5vh;
+    padding-bottom: 5vh;
+    padding-left: 5vw;
+    padding-right: 5vw;
+    background-color: black;
+    width: 100vw;
+    height: 100vh;
+    min-height: 600px!important;
+    min-width: 1250px!important;
+    box-sizing: border-box;
+}
+
+#logo{
+    width: 70%;
+    height: auto;
+}
+
+#downloadLinks{
+    width: 40%;
+    height: 20%;
+    position: relative;
+    bottom: 20%;
+}
+
+.downloadLink{
+    text-align: center;
+    background: url("../sources-site/PlayButton.png");
+    background-repeat: no-repeat;
+    height: 64px;
+    width: 193px;
+    font-family: chubby;
+    font-size: 18pt;
+    color: black;
+}
+.downloadLink div{
+    display: flex;
+    position: relative;
+    /*padding-bottom: 6px;*/
+}
+
+.downloadLink:hover{
+    color: black;
+    text-decoration: none;
+}
+
+.downloadLink div p{
+    margin-bottom: 6px;
+}
+
+.downloadLogo{
+    margin-left: 10px;
+    width: 32px;
+    height: 32px;
+}
