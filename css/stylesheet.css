@@ -6,16 +6,17 @@ body,html{
     font-family: chubby;
     src: url("../fonts/ChubbyChoo-SemiBold.ttf") format("truetype");
 }
+body{
+    background-color: black;
+}
+
 #main{
-    padding-top: 5vh;
     padding-bottom: 5vh;
     padding-left: 5vw;
     padding-right: 5vw;
     background-color: black;
     width: 100vw;
     height: 100vh;
-    min-height: 600px!important;
-    min-width: 1250px!important;
     box-sizing: border-box;
 }
 
@@ -61,3 +62,4 @@ body,html{
     width: 32px;
     height: 32px;
 }
+

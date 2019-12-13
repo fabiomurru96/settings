@@ -20,7 +20,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/sources-site/Video" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -30,12 +30,13 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\fabio\WebstormProjects\SettingsTheGameSite\assets" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\fabio\WebstormProjects\SettingsTheGameSite\assets" />
       <recent name="C:\Users\fabio\WebstormProjects\SettingsTheGameSite\fonts" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\fabio\WebstormProjects\SettingsTheGameSite\sources-site\Video" />
+      <recent name="C:\Users\fabio\WebstormProjects\SettingsTheGameSite\assets" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -60,7 +61,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1576201518125</updated>
-      <workItem from="1576201521318" duration="9067000" />
+      <workItem from="1576201521318" duration="11022000" />
+      <workItem from="1576239708038" duration="2319000" />
     </task>
     <servers />
   </component>
